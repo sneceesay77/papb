@@ -1,3 +1,10 @@
 etc
 usr
 papbedge
+config.prop
+Dockerfile.bck
+env.env  
+env.env.bk
+hosts
+test2.sh  
+test.sh
