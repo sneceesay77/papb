@@ -2,7 +2,7 @@
 
 ## Prerequisite
 
-First you must have docker installed. Follow the steps on official docker website.
+First you must have docker installed. [Follow the steps on official docker website.](https://docs.docker.com/engine/installation/) 
 
 ## Installation
 
