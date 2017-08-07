@@ -1,10 +1,10 @@
 # PAPB Installation
 
-#Prerequisite
+## Prerequisite
 
 First you must have docker installed. Follow the steps on official docker website.
 
-##Installation
+## Installation
 
 PAPB can be installed on two types of nodes. 
 
