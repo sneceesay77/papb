@@ -4,5 +4,8 @@ PAPB can be installed on two types of nodes.
 
 1. Gateway or Edge Node : A client node that does not do any cluster data processing or storage. Client nodes have BigData systems binaries installed in them for communication. If you have a client node in your cluster then it would be best to install PAPB on that. To install PAPB execute client.sh file in your terminal
 
-$./create_client.sh
+$./create-client.sh edgenode
 
+2. Normal Nodes: We consider normal nodes to be nodes that does not have client binaries installed in them but they can communicate with the cluster. In order words they are within the same network as the cluster. To install PAPB in a normal node execute the command below in your terminal. 
+
+$./create-client.sh normalnode 
